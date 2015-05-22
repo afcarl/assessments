@@ -22,7 +22,7 @@ _Questions coming soon_
 | end_statn | integer |   id of end station | `stations.id`|
 | bike_nr | integer | id of bicycle used ||
 | subsc_type | varchar |  subscription type - "Registered" is user with membership; "Casual" is user without membership ||
-| zip_code | varchar |  zipcode of user (only available for registered users) **data includes an apostrophe(') prefix** ||
+| zip_code | varchar |  zipcode of user (only available for registered users)||
 | birth_date | integer |  birth year of user ||
 | gender | varchar |  gender of user |||
 
