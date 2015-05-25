@@ -1,4 +1,4 @@
-## Future Home
+## Analysis Assessment
 
 The data in this test is from a fictional company that produces futuristic home automation products. They sell their devices in a number of different sales channels. Customers may buy one or many of their devices. Please submit a written answer for each question, as well as the code (sql or python only) used to answer the questions in a separate document (text documents or ipython notebooks are fine).
 
