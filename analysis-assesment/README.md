@@ -15,7 +15,7 @@ __Question 3:__ Is coupon usage increasing or decreasing on Status Indicator pro
 
 __Question 4:__ What products are commonly owned together?
 
-__Question 5:__ Do people who make a first purchase during the holiday season (Oct, Nov, Dec) show different purchasing behavior than people who have only purchased during other months?
+__Question 5:__ Do people who make a first purchase during the holiday season (Oct, Nov, Dec) show different purchasing behavior than people who make a first purchase not during the holiday season?
 
 
 #### Tables
